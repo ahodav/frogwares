@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/jsonwebtoken": "^8.3.0",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "bcrypt-nodejs": "0.0.3",
     "blubird": "0.0.1-security",
     "bluebird": "^3.5.3",
